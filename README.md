@@ -7,13 +7,13 @@
 
 ---
 
-## 🎮 About the Game
+## About the Game
 
 **The Last Invader** is a 2D top-down space shooter where you play as a lone hero fighting off an alien invasion. Two villain spaceships and a powerful boss are trying to stop you — but your mission is bigger than just surviving. You must rescue 5 hostages before they drift out of bounds, defeat the alien threat, and escape through the portal to win.
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 | Action | Control |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
 
 ![Gameplay](images/gameplay.png)
@@ -46,7 +46,7 @@
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 See the full **[Installation Guide](docs/installation_guide.md)** for step-by-step instructions for Windows, macOS, and Linux.
 git
@@ -58,7 +58,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 the-last-invader/
@@ -76,7 +76,7 @@ the-last-invader/
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 - 📘 [User Guide](docs/user_guide.md) — Everything a player needs to know
 - 🔧 [Installation Guide](docs/installation_guide.md) — How to get the game running on your machine
@@ -84,7 +84,7 @@ the-last-invader/
 
 ---
 
-## 👾 Features
+## Features
 
 - 2D top-down space shooter gameplay
 - Rotating player and enemy sprites that track mouse/movement direction
@@ -99,7 +99,7 @@ the-last-invader/
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Python 3](https://www.python.org/)
 - [Pygame](https://www.pygame.org/)
@@ -107,13 +107,13 @@ the-last-invader/
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Samuel Florez Garcia** — Co-developer
 - **Kimora Robinson** — Co-developer
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
