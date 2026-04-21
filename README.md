@@ -37,6 +37,8 @@
 
 ## 🖥️ Screenshots
 
+
+![Gameplay](images/gameplay.jpg)
 ![How to Play Screen](images/how%20to%20screen.jpg)
 
 ---
