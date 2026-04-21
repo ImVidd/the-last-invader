@@ -39,6 +39,9 @@
 
 
 ![Gameplay](images/gameplay.png)
+
+---
+
 ![How to Play Screen](images/how%20to%20screen.jpg)
 
 ---
@@ -46,7 +49,7 @@
 ## ⚙️ Installation
 
 See the full **[Installation Guide](docs/installation_guide.md)** for step-by-step instructions for Windows, macOS, and Linux.
-
+git
 **Quick start:**
 ```bash
 pip install pygame
