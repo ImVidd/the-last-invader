@@ -106,8 +106,8 @@ the-last-invader/
 
 ## 👥 Authors
 
-- **(Name)** — Co-developer
-- **(Name)** — Co-developer
+- **Samuel Florez Garcia** — Co-developer
+- **Kimora Robinson** — Co-developer
 
 ---
 
