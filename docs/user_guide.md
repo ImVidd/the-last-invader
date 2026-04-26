@@ -3,9 +3,13 @@
 
 
 User Guide - The Last Invader 
+
 Version: 1.0
+
 Authors: Samuel Florez Garcia & Kimora Robinson
+
 Last Updated: April 2026
+
 
 --- 
 
