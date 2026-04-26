@@ -78,9 +78,9 @@ the-last-invader/
 
 ## Documentation
 
-- 📘 [User Guide](docs/user_guide.md) — Everything a player needs to know
-- 🔧 [Installation Guide](docs/installation_guide.md) — How to get the game running on your machine
-- 💻 [Developer Documentation](docs/developer_docs.md) — Code structure, functions, and game logic
+- [User Guide](docs/user_guide.md) — Everything a player needs to know
+- [Installation Guide](docs/installation_guide.md) — How to get the game running on your machine
+- [Developer Documentation](docs/developer_docs.md) — Code structure, functions, and game logic
 
 ---
 
