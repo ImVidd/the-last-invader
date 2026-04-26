@@ -24,7 +24,9 @@ Table of Contents
 1. About the Game
 The Last Invader is a 2D top-down space shooter built with Python and Pygame. You play as a lone hero on a space battlefield, surrounded by alien invaders. Your mission is not just to survive, you must rescue 5 hostages before they drift out of bounds, defeat the alien threat, and escape through a portal to victory.
 
-![Gameplay](images/gameplay.png) 
+![Gameplay Image](images/gameplay.png) 
+
+
  
 ---
 
