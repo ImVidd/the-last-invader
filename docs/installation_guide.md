@@ -12,19 +12,19 @@ Last Updated: April 2026
  
 Table of Contents
 
-1. Requirements	1
+1. Requirements	
 
-2. Installing on macOS	1
+2. Installing on macOS	
 
-3. Installing on Windows	2
+3. Installing on Windows	
 
-4. Installing on Linux	2
+4. Installing on Linux	
 
-5. Downloading the Game	3
+5. Downloading the Game	
 
-6. Running the Game	3
+6. Running the Game	
 
-7. Troubleshooting	4
+7. Troubleshooting	
 
 ---
  
