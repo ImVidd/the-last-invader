@@ -94,7 +94,7 @@ Step 2 - Install Python
 
 3.	Open the downloaded .exe file
 
-4.	⚠️ IMPORTANT: On the first screen of the installer, check the box that says "Add Python to PATH" before clicking Install. This step is critical, if you skip it, Python will not work from the command line.
+4.	IMPORTANT: On the first screen of the installer, check the box that says "Add Python to PATH" before clicking Install. This step is critical, if you skip it, Python will not work from the command line.
 
 5.	Click "Install Now" and wait for it to finish
 
