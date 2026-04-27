@@ -27,9 +27,6 @@ Table of Contents
  
 1. About the Game
 The Last Invader is a 2D top-down space shooter built with Python and Pygame. You play as a lone hero on a space battlefield, surrounded by alien invaders. Your mission is not just to survive, you must rescue 5 hostages before they drift out of bounds, defeat the alien threat, and escape through a portal to victory.
-
-![Gameplay Image](../images/gameplay.png)
-
  
 ---
 
@@ -45,15 +42,27 @@ Main Menu - The first screen you see. It has three options:
 
 •	Quit  - Exits the game
 
+![Main Menu Image](../images/main menu screen.png)
+
 How to Play Screen - Displays the game objective, controls, and survival tips. Click the Home button in the top right to return to the main menu.
+
+![How To Screen Image](../images/how%20to%20screen.jpg)
 
 Game Screen - The main battlefield where gameplay takes place.
 
+![Gameplay Image](../images/gameplay.png)
+
 Pause Screen - Press ESC during gameplay to pause. Press ESC again to resume, or click the Home button to return to the main menu.
+
+![Pause Screen Image](../images/pause screen.png)   
 
 You Win Screen - Displayed when you successfully rescue all hostages and reach the portal.
 
+![You Win Screen Image](../images/youwinscreen.png)
+
 You Lose Screen - Displayed when you run out of lives or a hostage escapes. You can choose to Play Again or return to the Home screen.
+
+![You Lose Screen Image](../images/youlosescreen.png)
  
 ---
 
