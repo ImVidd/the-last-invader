@@ -42,7 +42,7 @@ Main Menu - The first screen you see. It has three options:
 
 •	Quit  - Exits the game
 
-![Main Menu Image](../images/main menu screen.png)
+![Main Menu Image](../images/main%20menu%20screen.png)
 
 How to Play Screen - Displays the game objective, controls, and survival tips. Click the Home button in the top right to return to the main menu.
 
@@ -54,7 +54,7 @@ Game Screen - The main battlefield where gameplay takes place.
 
 Pause Screen - Press ESC during gameplay to pause. Press ESC again to resume, or click the Home button to return to the main menu.
 
-![Pause Screen Image](../images/pause screen.png)   
+![Pause Screen Image](../images/pause%20screen.png)
 
 You Win Screen - Displayed when you successfully rescue all hostages and reach the portal.
 
